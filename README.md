@@ -2,7 +2,7 @@ A simple React app that dynamically updates the page with results from the YouTu
 
 To run the project:
 1. Clone this repo or download as a zip and extract
-2. Browse to the ReduxSimpleStarter-master folder in your favorite console
+2. Browse to the react-youtube-search-master folder in your favorite console
 3. (Requires node/npm) type the following commands:
 ```
 npm install
